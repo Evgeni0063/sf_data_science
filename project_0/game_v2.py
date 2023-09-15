@@ -12,8 +12,7 @@ def random_predict(number:int=1) -> int:
 
     count = 0
     
-    #test_comment_1
-    
+    #test_comment_2
 
     while True:
         count += 1
